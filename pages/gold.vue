@@ -1,9 +1,8 @@
 <template>
   <div>
-    <h2>Gold</h2>
-    <p>Here are some tips to help you climb the ranks in Apex Legends:</p>
+    <h2>トイプードル</h2>
     <ul>
-      <li>Communicate effectively with your team.</li>
+      <p>トイプードルは知能が高く、しつけがしやすい犬種です。</p>
       <li>Master your chosen Legends' abilities.</li>
       <li>Land in less populated areas to loot safely.</li>
       <!-- Add more tips as needed -->

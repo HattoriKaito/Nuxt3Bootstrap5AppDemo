@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Silver</h2>
+    <h2>ビーグル</h2>
     <p>Here are some tips to help you climb the ranks in Apex Legends:</p>
     <ul>
       <li>Communicate effectively with your team.</li>
