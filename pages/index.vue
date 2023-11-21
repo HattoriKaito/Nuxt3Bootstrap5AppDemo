@@ -7,7 +7,7 @@
 <body class="text-center">
   <h1>飼いやすい犬種！</h1>
   </body>
-    <nuxt-link to="/rank-tips">
+    <nuxt-link to="/sibaken">
       <img
         src="https://1.bp.blogspot.com/-WPATRPUzFks/Ur1KwoeD4hI/AAAAAAAAELA/PgDgKwCxI50/s1600/0095-17.jpg"
         alt="Mastery Guide Image"
@@ -16,7 +16,7 @@
         @click="handleImageClick"
       />
     </nuxt-link>
-    <nuxt-link to="/s">
+    <nuxt-link to="/bi-guru">
       <img
         src="https://www.restonnow.com/files/2015/06/CustisDOG2-600x399.jpeg"
         alt="Mastery Guide Image"
@@ -25,7 +25,7 @@
         @click="sImageClick"
       />
     </nuxt-link>
-    <nuxt-link to="/gold">
+    <nuxt-link to="/tiwawa">
       <img
         src="https://wanchan-life.com/wp-content/uploads/2019/08/IMG_3985.jpg"
         alt="Mastery Guide Image"
@@ -34,7 +34,7 @@
         @click="sImageClick"
       />
     </nuxt-link>
-    <nuxt-link to="/puratina">
+    <nuxt-link to="/dakkusu">
       <img
         src="https://www.moo-pon.com/main/wp-content/uploads/2017/06/DSC00182.jpg"
         alt="Mastery Guide Image"
@@ -43,7 +43,7 @@
         @click="sImageClick"
       />
     </nuxt-link>
-    <nuxt-link to="/daiya">
+    <nuxt-link to="/toipu-doru">
       <img
         src="https://www.petoffice.co.jp/_uploads/livingBody/190/0554%E3%83%88%E3%82%A4%E3%83%97%E3%83%BC%E2%99%82%E6%A8%AA.JPG"
         alt="Mastery Guide Image"
@@ -52,7 +52,7 @@
         @click="sImageClick"
       />
     </nuxt-link>
-    <nuxt-link to="/master">
+    <nuxt-link to="/yo-kusha-">
       <img
         src="https://pettimes.jp/wp-content/uploads/2019/05/yorkshire-terrier_feature-768x511.jpeg"
         alt="Mastery Guide Image"
