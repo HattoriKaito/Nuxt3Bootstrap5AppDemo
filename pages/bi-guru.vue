@@ -1,10 +1,10 @@
 <template>
-  <div class="text-center" >
+  <div class="text-center">
     <h2 class="h2-title">ビーグル</h2>
     <iframe width="640" height="360" src="https://www.youtube.com/embed/WpG4kdlcC_c" title="ジョン日記242◇ジョン日記241のショート動画、10回目の巾着田お散歩◇#ビーグル#dogshorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <div class="tips-container">
       <ul>
-        <li class="tip">陽気で愛嬌のある性格が特徴で、家族との絆を大切にします。</li>
+         <li class="tip">陽気で愛嬌のある性格が特徴で、家族との絆を大切にします。</li>
         <li class="tip">優れた嗅覚を活かし、獲物を追う獣猟犬としても活躍した歴史があるため、吠えやすくしつけが必要です。</li>
         <li class="tip">運動が好きなので散歩やお出掛けに連れていくと喜ぶでしょう。</li>
         <!-- Add more tips as needed -->
